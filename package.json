@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "jiangkeyuan"
+  },
+  "description": "上传压缩图片 vue img 压缩图片 ",
+  "homepage": "https://github.com/jiangkeyuan/uploadImgComp#readme",
+  "keywords": [
+    "s压缩图片",
+    "前端压缩图片",
+    "img",
+    "vue",
+    "js",
+    "上传图片压缩"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "upladimgcomp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangkeyuan/uploadImgComp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
